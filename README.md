@@ -4,15 +4,15 @@ Want to join our ShitCoinFam? Give us your SOL..
 
 ## Presale
 
-Details available at Presale.md
+Details available at [Presale.md](https://github.com/roberts/scf/blob/main/Presale.md)
 
 ## Links
 
-COming Soon
+Coming Soon.
 
 ## Tokenomics
 
-Details available at Tokenomics.md
+Details available at [Tokenomics.md](https://github.com/roberts/scf/blob/main/Tokenomics.md)
 
 ## Whitepaper
 
