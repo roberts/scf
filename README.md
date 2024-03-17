@@ -1,0 +1,2 @@
+# scf
+Solana $SCF Token
